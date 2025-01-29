@@ -1,0 +1,10 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:51838",
+"RedirectUrl": "",
+"LaunchCommand": "npm run dev",
+"WorkingDirectory": "C:\\Users\\StepanDaniel\\Desktop\\ds_sk1_sssvt\\StockXBackend\\backend_stockx_vol2\\backend_vol_3\\backend_vol_3.Server\\..\\backend_vol_3.client",
+"MaxTimeoutInSeconds": "120",
+"KeepRunning": "false"
+}
+}
