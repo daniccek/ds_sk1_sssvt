@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\StepanDaniel\\Desktop\\ds_sk1_sssvt\\StockXBackend\\StockXBackend.csproj": {}
+    "C:\\Users\\StepanDaniel\\Desktop\\ds_sk1_sssvt\\StockXBackend\\StockXBackend\\StockXBackend\\StockXBackend.csproj": {}
   },
   "projects": {
-    "C:\\Users\\StepanDaniel\\Desktop\\ds_sk1_sssvt\\StockXBackend\\StockXBackend.csproj": {
+    "C:\\Users\\StepanDaniel\\Desktop\\ds_sk1_sssvt\\StockXBackend\\StockXBackend\\StockXBackend\\StockXBackend.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\StepanDaniel\\Desktop\\ds_sk1_sssvt\\StockXBackend\\StockXBackend.csproj",
+        "projectUniqueName": "C:\\Users\\StepanDaniel\\Desktop\\ds_sk1_sssvt\\StockXBackend\\StockXBackend\\StockXBackend\\StockXBackend.csproj",
         "projectName": "StockXBackend",
-        "projectPath": "C:\\Users\\StepanDaniel\\Desktop\\ds_sk1_sssvt\\StockXBackend\\StockXBackend.csproj",
+        "projectPath": "C:\\Users\\StepanDaniel\\Desktop\\ds_sk1_sssvt\\StockXBackend\\StockXBackend\\StockXBackend\\StockXBackend.csproj",
         "packagesPath": "C:\\Users\\StepanDaniel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\StepanDaniel\\Desktop\\ds_sk1_sssvt\\StockXBackend\\obj\\",
+        "outputPath": "C:\\Users\\StepanDaniel\\Desktop\\ds_sk1_sssvt\\StockXBackend\\StockXBackend\\StockXBackend\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -23,15 +23,15 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net9.0"
+          "net8.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net9.0": {
-            "targetAlias": "net9.0",
+          "net8.0": {
+            "targetAlias": "net8.0",
             "projectReferences": {}
           }
         },
@@ -48,16 +48,20 @@
         "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
-        "net9.0": {
-          "targetAlias": "net9.0",
+        "net8.0": {
+          "targetAlias": "net8.0",
           "dependencies": {
-            "Microsoft.AspNetCore.OpenApi": {
-              "target": "Package",
-              "version": "[9.0.0, )"
-            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[9.0.1, )"
+            },
+            "MySql.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.6.2, )"
             }
           },
           "imports": [
