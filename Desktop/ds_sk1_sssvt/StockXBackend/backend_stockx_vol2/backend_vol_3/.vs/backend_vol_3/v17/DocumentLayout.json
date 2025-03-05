@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\StepanDaniel\\Desktop\\ds_sk1_sssvt\\StockXBackend\\backend_stockx_vol2\\backend_vol_3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3B64FA73-4649-48CB-8AEF-611E04AF8079}|backend_vol_3.client\\backend_vol_3.client.esproj|c:\\users\\stepandaniel\\desktop\\ds_sk1_sssvt\\stockxbackend\\backend_stockx_vol2\\backend_vol_3\\backend_vol_3.client\\backend_vol_3.client.esproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3B64FA73-4649-48CB-8AEF-611E04AF8079}|backend_vol_3.client\\backend_vol_3.client.esproj|solutionrelative:backend_vol_3.client\\backend_vol_3.client.esproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B4B903E-8A42-433C-96D8-ED615281EF4B}|backend_vol_3.Server\\backend_vol_3.Server.csproj|c:\\users\\stepandaniel\\desktop\\ds_sk1_sssvt\\stockxbackend\\backend_stockx_vol2\\backend_vol_3\\backend_vol_3.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B4B903E-8A42-433C-96D8-ED615281EF4B}|backend_vol_3.Server\\backend_vol_3.Server.csproj|solutionrelative:backend_vol_3.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\StepanDaniel\\Desktop\\ds_sk1_sssvt\\StockXBackend\\backend_stockx_vol2\\backend_vol_3\\backend_vol_3.Server\\Program.cs",
+              "RelativeDocumentMoniker": "backend_vol_3.Server\\Program.cs",
+              "ToolTip": "C:\\Users\\StepanDaniel\\Desktop\\ds_sk1_sssvt\\StockXBackend\\backend_stockx_vol2\\backend_vol_3\\backend_vol_3.Server\\Program.cs",
+              "RelativeToolTip": "backend_vol_3.Server\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T08:34:36.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "backend_vol_3.client",
+              "DocumentMoniker": "C:\\Users\\StepanDaniel\\Desktop\\ds_sk1_sssvt\\StockXBackend\\backend_stockx_vol2\\backend_vol_3\\backend_vol_3.client\\backend_vol_3.client.esproj",
+              "RelativeDocumentMoniker": "backend_vol_3.client\\backend_vol_3.client.esproj",
+              "ToolTip": "C:\\Users\\StepanDaniel\\Desktop\\ds_sk1_sssvt\\StockXBackend\\backend_stockx_vol2\\backend_vol_3\\backend_vol_3.client\\backend_vol_3.client.esproj",
+              "RelativeToolTip": "backend_vol_3.client\\backend_vol_3.client.esproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-01-29T08:34:34.968Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
